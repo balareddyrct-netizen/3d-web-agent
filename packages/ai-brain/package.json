@@ -1,0 +1,10 @@
+{
+  "name": "@3d-ai-agent/ai-brain",
+  "version": "0.0.0",
+  "private": true,
+  "main": "index.ts",
+  "dependencies": {
+    "@langchain/core": "^0.1.50",
+    "@langchain/google-genai": "^0.0.10"
+  }
+}

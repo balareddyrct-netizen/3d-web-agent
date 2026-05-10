@@ -1,0 +1,9 @@
+{
+  "name": "@3d-ai-agent/state",
+  "version": "0.0.0",
+  "private": true,
+  "main": "index.ts",
+  "dependencies": {
+    "zustand": "^4.5.0"
+  }
+}
